@@ -1,5 +1,7 @@
 {
   "name": "testsocial",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
